@@ -5,7 +5,9 @@ const favoriteGirlsLol = [
     'Tuna',
     'Gulben',
     'Miray',
-    'Selin'
+    'Selin',
+    'Gulbeyaz',
+    'Zehra',
 ];
 
 const hobbies = ['nothing', 'honestly', 'programming'];
